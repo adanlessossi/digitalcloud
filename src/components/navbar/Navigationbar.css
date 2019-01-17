@@ -1,0 +1,7 @@
+.Navigationbar {
+    margin-top: 15px;
+}
+
+.Navigationbar .navbar-brand {
+    font-weight: bold;
+}

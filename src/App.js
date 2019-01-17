@@ -1,18 +1,13 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import Navigationbar from '../src/components/navbar/Navigationbar';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to Digital Cloud Service</h1>
-        </header>
-        <p className="App-intro">
-          Coming soon...
-        </p>
+      <div className="App container">
+        <Navigationbar />
       </div>
     );
   }
