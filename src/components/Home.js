@@ -8,7 +8,7 @@ export default class Home extends Component {
     return (
       <div className="Home">
         <div className="landing">
-          <Jumbotron>
+          <Jumbotron className="jumbo">
             <h2>Better connect your Business to the world!</h2>
             <p>
                 Our success is based on the relationships we build with our clients. Every company will offer to be 

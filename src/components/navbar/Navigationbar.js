@@ -9,8 +9,8 @@ import "./Navigationbar.css";
 export default class Navigationbar extends Component {
   render() {
     return (
-      <div className="App container">
-        <Navbar fluid collapseOnSelect>
+      <div className="Navigationbar">
+        <Navbar inverse  collapseOnSelect>
             <Navbar.Header>
                 <Navbar.Brand>
                     <Link to="/">Digital Cloud Service</Link>
