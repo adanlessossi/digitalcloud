@@ -1,8 +1,6 @@
-import React, { Component } from 'react';
-import { Col, Row } from 'react-bootstrap';
+import React from 'react';
 
 const Footer = () => {
-	const colStyle = {};
 	return (
 		<footer color='blue' className='font-small pt-4 mt-4'>
 			<div className='footer-copyright text-center py-3'>

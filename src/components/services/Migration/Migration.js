@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table, Media, Row, Image } from 'react-bootstrap';
+import { Table, Media } from 'react-bootstrap';
 import './Migration.css';
 
 const Migration = props => {
