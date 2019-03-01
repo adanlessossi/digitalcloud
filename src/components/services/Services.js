@@ -1,11 +1,7 @@
-import React, { Component } from 'react'
+import React from "react";
 
-export default class Services extends Component {
-  render() {
-    return (
-      <div>
-        The Services Page.
-      </div>
-    )
-  }
-}
+const Services = props => {
+	return <div>The Services Page.</div>;
+};
+
+export default Services;

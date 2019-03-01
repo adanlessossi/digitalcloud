@@ -1,0 +1,16 @@
+.Migration {
+	width: 77%;
+	align-content: center;
+}
+.table-header {
+	background-color: lightseagreen;
+}
+
+.table-header .th {
+	margin: auto;
+}
+
+.cloud-image {
+	width: 680px;
+	height: 430px;
+}
